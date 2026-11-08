@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated manuscript."
+title: "Iron cost-offset model for heavy menstrual bleeding (HMB)"
+abstract: >-
+  Reproducible R/Python code for a pharmacoeconomic cost-offset model comparing
+  bleeding reduction (prevention) with iron replacement in heavy menstrual bleeding,
+  expressed as cost per milligram of iron.
+type: software
+authors:
+  - family-names: "Özbilen"
+    given-names: "Muhammet"
+    affiliation: "Iron Deficiency Clinic, Department of Internal Medicine, Ordu University Faculty of Medicine, Ordu, Türkiye"
+    orcid: "https://orcid.org/0000-0001-6052-7486"
+  - family-names: "Keskin"
+    given-names: "Deha Denizhan"
+    affiliation: "Department of Obstetrics and Gynaecology, Ordu University Faculty of Medicine, Ordu, Türkiye"
+    orcid: "https://orcid.org/0000-0002-6108-7619"
+  - family-names: "Şenol"
+    given-names: "Osman"
+    affiliation: "Department of Health Management, Karadeniz Technical University, Trabzon, Türkiye"
+    orcid: "https://orcid.org/0000-0001-5626-2921"
+version: "1.0.0"
+date-released: "2026-11-08"
+license: MIT
+# Replace <username> with your GitHub username once the repository exists:
+repository-code: "https://github.com/<username>/iron-cost-offset-hmb"
+keywords:
+  - heavy menstrual bleeding
+  - iron deficiency
+  - pharmacoeconomics
+  - cost-offset analysis
+  - PBAC
