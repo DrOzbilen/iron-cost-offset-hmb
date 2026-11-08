@@ -22,8 +22,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-11-08"
 license: MIT
-# Replace <username> with your GitHub username once the repository exists:
-repository-code: "https://github.com/<username>/iron-cost-offset-hmb"
+repository-code: "https://github.com/DrOzbilen/iron-cost-offset-hmb"
 keywords:
   - heavy menstrual bleeding
   - iron deficiency
